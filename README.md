@@ -43,3 +43,6 @@ Then open the notebook:
 ```
 notebooks/regression_analysis.ipynb
 ```
+## Model comparison
+
+![Model comparison](results/model_comparison.png)
