@@ -21,3 +21,21 @@ results/ – visualizations
 - pandas
 - scikit-learn
 - matplotlib
+
+## Dataset
+
+The dataset contains demographic and job-related information
+about employees used to predict salary.
+
+Target variable:
+Salary
+
+## How to run
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Then open the notebook:
+
+notebooks/regression_analysis.ipynb
