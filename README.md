@@ -34,8 +34,12 @@ Salary
 
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 Then open the notebook:
 
+```
 notebooks/regression_analysis.ipynb
+```
